@@ -1,0 +1,34 @@
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\bin\Debug\ERP1.exe.config
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\bin\Debug\ERP1.exe
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\bin\Debug\ERP1.pdb
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.csprojResolveAssemblyReference.cache
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.Form1.resources
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.Properties.Resources.resources
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.csproj.GenerateResource.Cache
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.exe
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.pdb
+C:\Users\H.S\Desktop\ERP1\ERP1\ERP1\obj\Debug\ERP1.Form2.resources
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\bin\Debug\ERP1.exe.config
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.exe
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.pdb
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\bin\Debug\ERP1.exe
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\bin\Debug\ERP1.pdb
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.csprojResolveAssemblyReference.cache
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.Form1.resources
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.Form2.resources
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.Properties.Resources.resources
+D:\BSCS\3rd Semes\V.P\ERP1\ERP1\ERP1\obj\Debug\ERP1.csproj.GenerateResource.Cache
+C:\Users\H.S\Desktop\ERP1\ERP1\bin\Debug\ERP1.exe.config
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.exe
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.pdb
+C:\Users\H.S\Desktop\ERP1\ERP1\bin\Debug\ERP1.exe.manifest
+C:\Users\H.S\Desktop\ERP1\ERP1\bin\Debug\ERP1.application
+C:\Users\H.S\Desktop\ERP1\ERP1\bin\Debug\ERP1.exe
+C:\Users\H.S\Desktop\ERP1\ERP1\bin\Debug\ERP1.pdb
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.csprojResolveAssemblyReference.cache
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.Form1.resources
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.Form2.resources
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.Properties.Resources.resources
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.csproj.GenerateResource.Cache
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.exe.manifest
+C:\Users\H.S\Desktop\ERP1\ERP1\obj\Debug\ERP1.application
